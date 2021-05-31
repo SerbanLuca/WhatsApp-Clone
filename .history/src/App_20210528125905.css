@@ -1,0 +1,14 @@
+.app
+{
+  background-color: lightyellow;
+  height: 100vh;
+}
+
+.app__body
+{
+  display: flex;
+  background-color: lightgray;
+  height: 90vh;
+  width: 90vh;
+  box-shadow: 1px 3px 20px 2px rgba(0,0,0,0.3);
+}

@@ -1,0 +1,23 @@
+.chat
+{
+    flex: 0.60;
+}
+
+.chat__header
+{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+
+.chat__headerInfo
+{
+    flex: 1;
+    padding-left: 10px;
+}
+
+.chat__headerInfo > p 
+{
+    color: rgb(105, 105, 105);
+}

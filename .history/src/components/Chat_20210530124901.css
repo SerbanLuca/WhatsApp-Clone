@@ -1,0 +1,10 @@
+.chat
+{
+    flex: 0.60;
+}
+
+.chat__header
+{
+    padding: 20px;
+    display: flex;
+}

@@ -1,0 +1,21 @@
+.sidebar
+{
+    flex: 0.4;
+}
+
+.sidebar__header
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    border-right: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+
+
+.sidebar__headerRight
+{
+    display: flex;
+    align-items: center;
+}
